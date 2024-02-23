@@ -27,4 +27,3 @@ Pivot tables served as the cornerstone for exploratory data analysis, allowing m
 Conclusion
 
 In the realm of data analysis, every step, from data wrangling to visualization, contributes to the creation of a compelling narrative. Through meticulous attention to detail and strategic analytical enhancements, I transformed disparate data points into a cohesive project showcasing the power of data-driven decision-making.
-![image](https://github.com/LuizGuilhermeLima/excel-data-wrangling-product-catalog/assets/105224925/41977234-fcbd-48ad-b39a-f4091af889eb)
